@@ -7,3 +7,6 @@
 | 2  | Anasthashya Rachman      | 121450013 |
 | 3  | Kirana Ratu Malhanny     | 121450082 |
 | 4  | Ghozi Alvin Karim       | 121450123 |
+|5   | Claudhea Angeliani      | 121450124 |
+
+
